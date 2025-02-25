@@ -8,3 +8,5 @@
  I asked the AI to put the answer/question text into the middle of the display. 
  2/21/2025
  I made the application window not appear when selecting the file.
+ 2/24/2025
+ With the help of AI, I added the known/unknown card feature. This was the biggest osbtacle since trying to add it came with some bugs. As far as I know, it is working now. 
